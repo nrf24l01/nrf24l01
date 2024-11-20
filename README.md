@@ -10,72 +10,80 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/apple/000000" height="40" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/django/092E20" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/google/4285F4" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ros/22314E" height="40" alt="ros logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vim/019733" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+<div align="center" style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 1200px;">
+  <!-- Icons Section (Left) -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
+    <img src="https://cdn.simpleicons.org/apple/000000" height="40" alt="apple logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="chrome logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/django/092E20" height="40" alt="django logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="40" alt="gitlab logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/google/4285F4" height="40" alt="google logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/ros/22314E" height="40" alt="ros logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="selenium logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/vim/019733" height="40" alt="vim logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  </div>
+
+  <!-- GIF Section (Right) -->
+  <div style="display: flex; justify-content: center; align-items: center; flex: 1;">
+    <img src="https://media.giphy.com/media/g2jj9VAIBluIreVNsb/giphy.gif" alt="Smolverse GIF" style="max-width: 480px; width: auto; height: auto;" />
+  </div>
 </div>
 
 ###
