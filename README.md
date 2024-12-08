@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is nrf24l01 and I'm a lazy developer, from Earth</h2>
+<h2 align="left">Hi 👋! My name is nrf24l01 and I'm a lazy developer</h2>
 
 ###
 
