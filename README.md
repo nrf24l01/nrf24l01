@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is nrf24l01 and I'm a fullstack developer</h2>
+<h2 align="left">Hi! I am nrf24l01</h2>
 
 ###
 
