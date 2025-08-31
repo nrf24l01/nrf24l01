@@ -85,6 +85,8 @@
     <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="vite logo"  />
     <img width="12" />
     <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="golang logo"  />
   </div>
 
   <!-- GIF Section (Right) -->
