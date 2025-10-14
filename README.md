@@ -11,7 +11,7 @@
 
 ###
 <div align="center">
-  <img src="https://wakapi.snnlab.ru/api/activity/chart/nrf24l01.svg" height="300" alt="wakapi activity chart" />
+  <img src="https://wakapi.snnlab.ru/api/activity/chart/nrf24l01.svg?dark=true" height="300" alt="wakapi activity chart" />
   <br />
   <sub><b>Wakapi Coding Activity</b> — статистика времени программирования</sub>
 </div>
