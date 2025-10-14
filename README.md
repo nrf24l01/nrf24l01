@@ -16,7 +16,87 @@
   <sub><b>Wakapi Coding Activity</b> — статистика времени программирования</sub>
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 254.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,695 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 74 Public Repositories 
+ > 
+> 🔑 10 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                207 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+🌆 Daytime                732 commits         ████████░░░░░░░░░░░░░░░░░   32.13 % 
+🌃 Evening                1136 commits        ████████████░░░░░░░░░░░░░   49.87 % 
+🌙 Night                  203 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   307 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Tuesday                  366 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Wednesday                308 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Thursday                 247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Friday                   295 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Saturday                 494 commits         █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+Sunday                   261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+Go                       3 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   30.70 % 
+YAML                     2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
+Python                   2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Other                    1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+PlantUML                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+
+🔥 Editors: 
+VS Code                  10 hrs 25 mins      █████████████████████░░░░   84.83 % 
+Chrome                   1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+
+🐱‍💻 Projects: 
+Plushnik-Bot             7 hrs 32 mins       ███████████████░░░░░░░░░░   61.41 % 
+cp_ultimate_money_control1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+cp_money_contoller       1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+silaedr_school           1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+rerandom                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+
+💻 Operating System: 
+Linux                    12 hrs 16 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   53 repos            ████████████████░░░░░░░░░   63.86 % 
+Vue                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Go                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/nrf24l01/nrf24l01/main/assets/bar_graph.png)
+
+
+ Last Updated on 14/10/2025 16:32:26 UTC
+<!--END_SECTION:waka-->
 </div>
 ###
 
