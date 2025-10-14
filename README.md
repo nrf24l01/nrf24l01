@@ -10,6 +10,12 @@
 </div>
 
 ###
+<div align="center">
+  <img src="https://wakapi.snnlab.ru/api/activity/chart/nrf24l01.svg" height="300" alt="wakapi activity chart" />
+  <br />
+  <sub><b>Wakapi Coding Activity</b> — статистика времени программирования</sub>
+</div>
+###
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 1200px;">
   <!-- Icons Section (Left) -->
