@@ -16,18 +16,20 @@
   <sub><b>Wakapi Coding Activity</b> — статистика времени программирования</sub>
 
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-492%20hrs%202%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Tuesday                  374 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Wednesday                397 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Thursday                 298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Friday                   347 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Saturday                 521 commits         █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-Sunday                   289 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Monday                   305 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Tuesday                  374 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Wednesday                396 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Thursday                 296 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Friday                   338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Saturday                 501 commits         █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Sunday                   280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
 ```
 
 
@@ -37,18 +39,18 @@ Sunday                   289 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-C                        12 hrs 27 mins      ██████████░░░░░░░░░░░░░░░   41.35 % 
-Go                       6 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
-Python                   5 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-HTML                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+C                        13 hrs 22 mins      ███████████░░░░░░░░░░░░░░   44.81 % 
+Go                       6 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+Python                   4 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+HTML                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 💻 Operating System: 
-Linux                    30 hrs 7 mins       █████████████████████████   100.00 % 
+Linux                    29 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/11/2025 18:47:27 UTC
+ Last Updated on 04/11/2025 18:50:45 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
