@@ -16,7 +16,7 @@
   <sub><b>Wakapi Coding Activity</b> — статистика времени программирования</sub>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-492%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-493%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -39,18 +39,18 @@ Sunday                   280 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-C                        13 hrs 22 mins      ███████████░░░░░░░░░░░░░░   44.81 % 
-Go                       6 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-Python                   4 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-HTML                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+C                        14 hrs 26 mins      █████████████░░░░░░░░░░░░   50.55 % 
+Go                       6 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+Python                   4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 💻 Operating System: 
-Linux                    29 hrs 51 mins      █████████████████████████   100.00 % 
+Linux                    28 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/11/2025 18:50:45 UTC
+ Last Updated on 05/11/2025 18:50:25 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
