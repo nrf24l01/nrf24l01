@@ -16,20 +16,20 @@
   <sub><b>Wakapi Coding Activity</b> — статистика времени программирования</sub>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-567%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-570%20hrs%2054%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Tuesday                  403 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Wednesday                403 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Thursday                 344 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Friday                   356 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Saturday                 511 commits         █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Sunday                   304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Monday                   308 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Tuesday                  398 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Wednesday                396 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Thursday                 344 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Friday                   339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Saturday                 487 commits         █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+Sunday                   297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
 ```
 
 
@@ -39,18 +39,18 @@ Sunday                   304 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Vue.js                   4 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   28.25 % 
-HTML                     3 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-TypeScript               3 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-Python                   1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Go                       59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Vue.js                   4 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+HTML                     3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+TypeScript               2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Python                   1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Go                       1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
 
 💻 Operating System: 
-Linux                    16 hrs 6 mins       █████████████████████████   100.00 % 
+Linux                    18 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/12/2025 18:55:19 UTC
+ Last Updated on 19/12/2025 18:52:49 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
