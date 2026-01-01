@@ -18,15 +18,15 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-581%20hrs%2044%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.42%20million%20lines%20of%20code-blue)
 
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Monday                   314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
 Tuesday                  398 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
 Wednesday                396 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Thursday                 344 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Thursday                 345 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
 Friday                   341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
 Saturday                 487 commits         █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
 Sunday                   299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
@@ -39,18 +39,18 @@ Sunday                   299 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Go                       2 hrs 2 mins        ████████████████████░░░░░   80.06 % 
-YAML                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Go                       2 hrs 2 mins        ████████████░░░░░░░░░░░░░   48.00 % 
+C                        1 hr 41 mins        ██████████░░░░░░░░░░░░░░░   39.66 % 
+YAML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Linux                    2 hrs 33 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/12/2025 18:52:03 UTC
+ Last Updated on 01/01/2026 18:52:40 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
