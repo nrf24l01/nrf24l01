@@ -16,20 +16,20 @@
   <sub><b>Wakapi Coding Activity</b> — статистика времени программирования</sub>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-597%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%208%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.45%20million%20lines%20of%20code-blue?style=flat)
 
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Tuesday                  403 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Wednesday                398 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Thursday                 353 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Friday                   341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-Saturday                 493 commits         █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-Sunday                   300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Monday                   319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Tuesday                  403 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Wednesday                398 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Thursday                 353 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Friday                   341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Saturday                 493 commits         █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Sunday                   300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
 ```
 
 
@@ -39,18 +39,18 @@ Sunday                   300 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-YAML                     4 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   37.28 % 
-Go                       2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-Python                   1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Bash                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-JSON                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+YAML                     4 hrs               ███████░░░░░░░░░░░░░░░░░░   27.96 % 
+Python                   3 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+Go                       2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+JSON                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Bash                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 
 💻 Operating System: 
-Linux                    12 hrs 13 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/01/2026 18:51:18 UTC
+ Last Updated on 12/01/2026 18:57:16 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
