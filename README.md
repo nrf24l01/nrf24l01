@@ -16,7 +16,7 @@
   <sub><b>Wakapi Coding Activity</b> — статистика времени программирования</sub>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-661%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-663%20hrs%2025%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.62%20million%20lines%20of%20code-blue?style=flat)
 
@@ -24,9 +24,9 @@
 
 ```text
 Monday                   343 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Tuesday                  426 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Tuesday                  427 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
 Wednesday                435 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Thursday                 388 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Thursday                 388 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
 Friday                   364 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
 Saturday                 505 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
 Sunday                   313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
@@ -39,18 +39,18 @@ Sunday                   313 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Go                       3 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   29.11 % 
-Python                   2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
-HTML                     1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-YAML                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Other                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Go                       2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+Python                   2 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+YAML                     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Other                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 
 💻 Operating System: 
-Linux                    12 hrs 2 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/02/2026 19:29:11 UTC
+ Last Updated on 18/02/2026 19:28:44 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
