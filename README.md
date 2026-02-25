@@ -23,13 +23,13 @@
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   345 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Tuesday                  428 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Wednesday                437 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Thursday                 389 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Friday                   367 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Saturday                 506 commits         █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-Sunday                   313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Monday                   345 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Tuesday                  437 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Wednesday                437 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Thursday                 389 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Friday                   367 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Saturday                 506 commits         █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Sunday                   313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
 ```
 
 
@@ -39,18 +39,18 @@ Sunday                   313 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Go                       1 hr 2 mins         █████████████████░░░░░░░░   68.38 % 
-YAML                     25 mins             ███████░░░░░░░░░░░░░░░░░░   27.44 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Go                       1 hr 20 mins        ██████████░░░░░░░░░░░░░░░   38.39 % 
+Markdown                 1 hr 10 mins        ████████░░░░░░░░░░░░░░░░░   33.56 % 
+Bash                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+YAML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Makefile                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 
 💻 Operating System: 
-Linux                    1 hr 31 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/02/2026 19:31:57 UTC
+ Last Updated on 25/02/2026 19:33:35 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
