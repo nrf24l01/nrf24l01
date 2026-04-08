@@ -16,7 +16,7 @@
   <sub><b>Wakapi Coding Activity</b> — статистика времени программирования</sub>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-680%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-680%20hrs%2028%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.66%20million%20lines%20of%20code-blue?style=flat)
 
@@ -24,12 +24,12 @@
 
 ```text
 Monday                   331 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Tuesday                  386 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Wednesday                436 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Thursday                 373 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Friday                   364 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Saturday                 497 commits         █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Sunday                   314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Tuesday                  388 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Wednesday                436 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Thursday                 373 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Friday                   364 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Saturday                 497 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Sunday                   314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
 ```
 
 
@@ -39,18 +39,18 @@ Sunday                   314 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-YAML                     22 mins             ███████░░░░░░░░░░░░░░░░░░   28.93 % 
-Graphviz (DOT)           11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Docker                   11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-PlantUML                 9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Bash                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Graphviz (DOT)           11 mins             ██████████░░░░░░░░░░░░░░░   41.33 % 
+PlantUML                 9 mins              ████████░░░░░░░░░░░░░░░░░   33.21 % 
+YAML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Mermaid                  2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 
 💻 Operating System: 
-Linux                    1 hr 17 mins        █████████████████████████   100.00 % 
+Linux                    28 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/04/2026 19:37:36 UTC
+ Last Updated on 08/04/2026 19:47:28 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
