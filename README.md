@@ -18,18 +18,18 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-682%20hrs%2036%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.68%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.70%20million%20lines%20of%20code-blue?style=flat)
 
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Tuesday                  392 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Wednesday                439 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Thursday                 389 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Friday                   365 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Saturday                 498 commits         █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Sunday                   323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Monday                   338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Tuesday                  392 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Wednesday                439 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Thursday                 394 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Friday                   389 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Saturday                 498 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Sunday                   323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
 ```
 
 
@@ -39,18 +39,18 @@ Sunday                   323 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-YAML                     34 mins             ███████████░░░░░░░░░░░░░░   44.73 % 
-Bash                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Python                   10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Nix                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Python                   10 mins             ███████████████░░░░░░░░░░   58.41 % 
+Nix                      6 mins              █████████░░░░░░░░░░░░░░░░   36.67 % 
+TOML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 💻 Operating System: 
-Linux                    1 hr 17 mins        █████████████████████████   100.00 % 
+Linux                    17 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/04/2026 19:50:03 UTC
+ Last Updated on 24/04/2026 19:29:11 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
