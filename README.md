@@ -18,18 +18,18 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-704%20hrs%2043%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.75%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.76%20million%20lines%20of%20code-blue?style=flat)
 
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   344 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Tuesday                  403 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Wednesday                445 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Thursday                 397 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Friday                   398 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Saturday                 509 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-Sunday                   356 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Monday                   344 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Tuesday                  407 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Wednesday                448 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Thursday                 402 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Friday                   398 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Saturday                 510 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Sunday                   361 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
 ```
 
 
@@ -39,18 +39,18 @@ Sunday                   356 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Go                       2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-C                        1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Other                    1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Markdown                 56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Docker                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+C                        1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+Go                       1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+Other                    52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Kconfig                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 
 💻 Operating System: 
-Linux                    9 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/05/2026 20:00:24 UTC
+ Last Updated on 08/05/2026 19:54:20 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
