@@ -16,6 +16,8 @@
   <sub><b>Wakapi Coding Activity</b> — статистика времени программирования</sub>
 
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-714%20hrs%2029%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.77%20million%20lines%20of%20code-blue?style=flat)
 
 📅 **I'm Most Productive on Saturday** 
@@ -48,7 +50,7 @@ Linux                    2 hrs               ███████████�
 ```
 
 
- Last Updated on 23/05/2026 19:45:36 UTC
+ Last Updated on 24/05/2026 19:48:22 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
