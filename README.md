@@ -16,7 +16,7 @@
   <sub><b>Wakapi Coding Activity</b> — статистика времени программирования</sub>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-726%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-726%20hrs%2043%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.81%20million%20lines%20of%20code-blue?style=flat)
 
@@ -39,18 +39,18 @@ Sunday                   368 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Go                       18 mins             ███████░░░░░░░░░░░░░░░░░░   26.49 % 
-Python                   17 mins             ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-Bash                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-CSS                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Python                   20 mins             ████████████████░░░░░░░░░   62.97 % 
+CSS                      4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Vue                      4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Go                       2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 💻 Operating System: 
-Linux                    1 hr 8 mins         █████████████████████████   100.00 % 
+Linux                    33 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/06/2026 21:30:38 UTC
+ Last Updated on 17/06/2026 20:37:03 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
