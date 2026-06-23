@@ -16,7 +16,7 @@
   <sub><b>Wakapi Coding Activity</b> — статистика времени программирования</sub>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-726%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-726%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.81%20million%20lines%20of%20code-blue?style=flat)
 
@@ -39,14 +39,15 @@ Sunday                   368 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   20 mins             █████████████████████████   100.00 % 
+Python                   3 mins              ████████████████████░░░░░   78.02 % 
+JSON                     1 min               █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
 
 💻 Operating System: 
-Linux                    20 mins             █████████████████████████   100.00 % 
+Linux                    4 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/06/2026 21:21:25 UTC
+ Last Updated on 23/06/2026 20:33:20 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
