@@ -39,18 +39,18 @@ Sunday                   368 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-C                        2 hrs 18 mins       █████████████████░░░░░░░░   68.51 % 
-Objective-C              38 mins             █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-Java                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+C                        2 hrs 18 mins       ███████████████████░░░░░░   75.97 % 
+Objective-C              38 mins             █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 💻 Operating System: 
-Linux                    3 hrs 21 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/06/2026 20:23:47 UTC
+ Last Updated on 30/06/2026 20:29:08 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
