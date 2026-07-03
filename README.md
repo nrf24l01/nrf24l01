@@ -16,7 +16,7 @@
   <sub><b>Wakapi Coding Activity</b> — статистика времени программирования</sub>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-730%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-730%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.81%20million%20lines%20of%20code-blue?style=flat)
 
@@ -39,18 +39,14 @@ Sunday                   368 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-C                        1 hr 42 mins        ████████████████░░░░░░░░░   65.27 % 
-Objective-C              38 mins             ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-PlantUML                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+PlantUML                 14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 36 mins       █████████████████████████   100.00 % 
+Linux                    14 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/07/2026 20:02:37 UTC
+ Last Updated on 03/07/2026 19:58:36 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
