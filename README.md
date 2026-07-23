@@ -16,20 +16,18 @@
   <sub><b>Wakapi Coding Activity</b> — статистика времени программирования</sub>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-744%20hrs%2059%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.81%20million%20lines%20of%20code-blue?style=flat)
 
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   363 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Tuesday                  415 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Wednesday                496 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Thursday                 403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Friday                   402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Saturday                 518 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Sunday                   370 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Monday                   363 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Tuesday                  415 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Wednesday                496 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Thursday                 466 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Friday                   402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Saturday                 518 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+Sunday                   370 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
 ```
 
 
@@ -39,18 +37,18 @@ Sunday                   370 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Other                    23 mins             ███████░░░░░░░░░░░░░░░░░░   26.10 % 
-JSON                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-Text                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-PlantUML                 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-TypeScript               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Other                    23 mins             ███████░░░░░░░░░░░░░░░░░░   28.83 % 
+JSON                     15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Text                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+PlantUML                 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+TypeScript               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
 
 💻 Operating System: 
-Linux                    1 hr 31 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/07/2026 19:53:43 UTC
+ Last Updated on 23/07/2026 19:56:03 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
