@@ -16,22 +16,18 @@
   <sub><b>Wakapi Coding Activity</b> — статистика времени программирования</sub>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-733%20hrs%2051%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-91%20hrs%2028%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.81%20million%20lines%20of%20code-blue?style=flat)
 
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Tuesday                  415 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Wednesday                496 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Thursday                 476 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-Friday                   404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Saturday                 518 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Sunday                   373 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Monday                   370 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Tuesday                  433 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Wednesday                496 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Thursday                 476 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Friday                   404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Saturday                 518 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Sunday                   373 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
 ```
 
 
@@ -54,7 +50,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 27/07/2026 20:05:21 UTC
+ Last Updated on 28/07/2026 20:02:04 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
