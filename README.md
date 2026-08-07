@@ -16,66 +16,10 @@
   <sub><b>Wakapi Coding Activity</b> — статистика времени программирования</sub>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-734%20hrs%201%20min-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-91%20hrs%2056%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.82%20million%20lines%20of%20code-blue?style=flat)
 
-📅 **I'm Most Productive on Saturday** 
 
-```text
-Monday                   370 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Tuesday                  437 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Wednesday                502 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Thursday                 481 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Friday                   405 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-Saturday                 519 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Sunday                   378 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-C                        1 hr 40 mins        ████████████████░░░░░░░░░   65.34 % 
-Other                    27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-Python                   18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-Kconfig                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-
-💻 Operating System: 
-Linux                    2 hrs 33 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 hrs 33 mins (100.0%)
-
-✍️ 260 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 5,863,819 Input Tokens, 28,827 Output Tokens
-
-💵 $27.42 Estimated AI Cost This Week
-
-🧠 18 AI Sessions, 39 AI Prompts
-
-GPT                      320 lines           █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,135 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
-
- Last Updated on 05/08/2026 20:08:00 UTC
+ Last Updated on 07/08/2026 00:24:18 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
