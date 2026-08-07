@@ -16,10 +16,66 @@
   <sub><b>Wakapi Coding Activity</b> — статистика времени программирования</sub>
 
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-736%20hrs%2054%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%2047%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.82%20million%20lines%20of%20code-blue?style=flat)
 
+📅 **I'm Most Productive on Saturday** 
 
- Last Updated on 07/08/2026 00:24:18 UTC
+```text
+Monday                   370 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Tuesday                  437 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Wednesday                502 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Thursday                 484 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Friday                   405 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Saturday                 519 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Sunday                   378 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+Other                    2 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   41.64 % 
+C                        1 hr 42 mins        █████████░░░░░░░░░░░░░░░░   34.35 % 
+Markdown                 31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Python                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+
+💻 Operating System: 
+Linux                    4 hrs 57 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 4 hrs 56 mins (99.59%)
+
+✍️ 438 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 6,491,044 Input Tokens, 38,182 Output Tokens
+
+💵 $29.81 Estimated AI Cost This Week
+
+🧠 26 AI Sessions, 60 AI Prompts
+
+GPT                      434 lines           █████████████████████░░░░   82.04 % 
+Opencode-Cli             95 lines            ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,464 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 07/08/2026 19:29:43 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
