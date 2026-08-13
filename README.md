@@ -25,13 +25,13 @@
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   370 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Tuesday                  440 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Wednesday                502 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Thursday                 484 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Friday                   405 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Saturday                 519 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Sunday                   379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Monday                   373 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Tuesday                  453 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Wednesday                502 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Thursday                 504 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Friday                   405 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Saturday                 519 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Sunday                   379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
 ```
 
 
@@ -41,41 +41,39 @@ Sunday                   379 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Other                    1 hr 36 mins        █████████████████░░░░░░░░   66.08 % 
-Markdown                 26 mins             █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-YAML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Kconfig                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-C                        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Other                    1 hr 36 mins        ██████████████████░░░░░░░   72.13 % 
+Markdown                 24 mins             █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+YAML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 💻 Operating System: 
-Linux                    2 hrs 25 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 24 mins (99.16%)
+⏱ AI Coding Time: 2 hrs 12 mins (99.09%)
 
-✍️ 178 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 95 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 683,831 Input Tokens, 9,528 Output Tokens
+🔤 46,865 Input Tokens, 5,895 Output Tokens
 
-💵 $3.49 Estimated AI Cost This Week
+💵 $0.23 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 23 AI Prompts
+🧠 6 AI Sessions, 16 AI Prompts
 
-GPT                      135 lines           ███████████████░░░░░░░░░░   58.70 % 
-Opencode-Cli             95 lines            ██████████░░░░░░░░░░░░░░░   41.30 % 
+Opencode-Cli             95 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 202 characters per prompt
+📝 Concise Prompter — average 103 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/08/2026 19:37:30 UTC
+ Last Updated on 13/08/2026 19:36:18 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
