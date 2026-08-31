@@ -16,9 +16,9 @@
   <sub><b>Wakapi Coding Activity</b> — статистика времени программирования</sub>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-737%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-737%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%207%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.83%20million%20lines%20of%20code-blue?style=flat)
 
@@ -41,20 +41,36 @@ Sunday                   380 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        4 mins              ██████████████████░░░░░░░   72.91 % 
+YAML                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Other                    0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    6 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 min (27.09%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 19,817 Input Tokens, 355 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 63 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/08/2026 21:22:23 UTC
+ Last Updated on 31/08/2026 23:00:25 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
