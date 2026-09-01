@@ -16,22 +16,22 @@
   <sub><b>Wakapi Coding Activity</b> — статистика времени программирования</sub>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-737%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-738%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2037%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.83%20million%20lines%20of%20code-blue?style=flat)
 
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-Tuesday                  449 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Wednesday                486 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Thursday                 500 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Friday                   398 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Saturday                 526 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Sunday                   380 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Monday                   338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Tuesday                  449 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Wednesday                486 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Thursday                 500 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Friday                   398 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Saturday                 526 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Sunday                   383 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
 ```
 
 
@@ -41,36 +41,41 @@ Sunday                   380 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-C                        4 mins              ██████████████████░░░░░░░   72.91 % 
-YAML                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Other                    0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Go                       29 mins             █████████████░░░░░░░░░░░░   50.80 % 
+Markdown                 21 mins             █████████░░░░░░░░░░░░░░░░   37.05 % 
+C                        4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 💻 Operating System: 
-Linux                    6 mins              █████████████████████████   100.00 % 
+Linux                    57 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (27.09%)
+⏱ AI Coding Time: 31 mins (55.3%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 757 lines written by AI, 116 lines written by hand (86.71% AI-written)
 
-🔤 19,817 Input Tokens, 355 Output Tokens
+🔤 527,021 Input Tokens, 40,784 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $1.21 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 8 AI Sessions, 7 AI Prompts
+
+GPT                      693 lines           ████████████████████████░   96.12 % 
+Mimo                     28 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 63 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 86.71% of written lines came from AI
+📄 Detailed Prompter — average 959 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 81.71% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/08/2026 23:00:25 UTC
+ Last Updated on 01/09/2026 21:14:49 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
