@@ -18,7 +18,7 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-744%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2058%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.83%20million%20lines%20of%20code-blue?style=flat)
 
@@ -41,42 +41,42 @@ Sunday                   383 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Go                       4 hrs 13 mins       █████████████░░░░░░░░░░░░   50.54 % 
-Markdown                 49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Smali                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Other                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-JSON                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Go                       4 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   40.05 % 
+C                        1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Markdown                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Other                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+PlantUML                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
 
 💻 Operating System: 
-Linux                    8 hrs 21 mins       █████████████████████████   100.00 % 
+Linux                    10 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 52 mins (94.2%)
+⏱ AI Coding Time: 8 hrs 28 mins (77.54%)
 
-✍️ 7,660 lines written by AI, 186 lines written by hand (97.63% AI-written)
+✍️ 8,493 lines written by AI, 672 lines written by hand (92.67% AI-written)
 
-🔤 5,870,947 Input Tokens, 573,594 Output Tokens
+🔤 5,979,425 Input Tokens, 596,094 Output Tokens
 
-💵 $37.89 Estimated AI Cost This Week
+💵 $42.38 Estimated AI Cost This Week
 
-🧠 164 AI Sessions, 171 AI Prompts
+🧠 169 AI Sessions, 180 AI Prompts
 
-GPT                      8,182 lines         █████████████████████████   99.00 % 
-Opencode-Cli             55 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Mimo                     28 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+GPT                      9,041 lines         █████████████████████████   99.09 % 
+Opencode-Cli             55 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Mimo                     28 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.63% of written lines came from AI
-📚 Verbose Prompter — average 2,057 characters per prompt
+🤖 AI-Driven — 92.67% of written lines came from AI
+📚 Verbose Prompter — average 1,975 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 29.96% of changed lines were hand-edited
+🚀 High AI Trust — 32.49% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/09/2026 20:36:00 UTC
+ Last Updated on 06/09/2026 20:38:48 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
