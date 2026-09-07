@@ -16,9 +16,9 @@
   <sub><b>Wakapi Coding Activity</b> — статистика времени программирования</sub>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-744%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-747%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-105%20hrs%2034%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.83%20million%20lines%20of%20code-blue?style=flat)
 
@@ -41,28 +41,28 @@ Sunday                   383 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Go                       4 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   40.05 % 
-C                        1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Markdown                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Other                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-PlantUML                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+Go                       4 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   40.43 % 
+C                        1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Markdown                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+PlantUML                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Other                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
 
 💻 Operating System: 
-Linux                    10 hrs 56 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 28 mins (77.54%)
+⏱ AI Coding Time: 8 hrs 27 mins (78.02%)
 
 ✍️ 8,493 lines written by AI, 672 lines written by hand (92.67% AI-written)
 
-🔤 5,979,425 Input Tokens, 596,094 Output Tokens
+🔤 5,959,608 Input Tokens, 595,739 Output Tokens
 
 💵 $42.38 Estimated AI Cost This Week
 
-🧠 169 AI Sessions, 180 AI Prompts
+🧠 168 AI Sessions, 178 AI Prompts
 
 GPT                      9,041 lines         █████████████████████████   99.09 % 
 Opencode-Cli             55 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
@@ -70,13 +70,13 @@ Mimo                     28 lines            ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 92.67% of written lines came from AI
-📚 Verbose Prompter — average 1,975 characters per prompt
+📚 Verbose Prompter — average 1,997 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 32.49% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/09/2026 20:38:48 UTC
+ Last Updated on 07/09/2026 21:42:01 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
