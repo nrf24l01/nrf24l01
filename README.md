@@ -60,12 +60,11 @@ Linux                    1 hr 30 mins        ███████████�
 
 🔤 137,626 Input Tokens, 55,706 Output Tokens
 
-💵 $7.35 Estimated AI Cost This Week
+💵 $5.98 Estimated AI Cost This Week
 
 🧠 3 AI Sessions, 4 AI Prompts
 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
@@ -75,7 +74,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 24/09/2026 21:41:31 UTC
+ Last Updated on 25/09/2026 21:47:39 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
