@@ -16,7 +16,7 @@
   <sub><b>Wakapi Coding Activity</b> — статистика времени программирования</sub>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-748%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-748%20hrs%2040%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-106%20hrs%2018%20mins-blue?style=flat)
 
@@ -25,12 +25,12 @@
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Tuesday                  451 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Wednesday                486 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Monday                   339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Tuesday                  451 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Wednesday                486 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
 Thursday                 500 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Friday                   403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Saturday                 530 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Friday                   403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Saturday                 531 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
 Sunday                   385 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
 ```
 
@@ -41,22 +41,22 @@ Sunday                   385 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   1 hr 12 mins        ████████████████████░░░░░   80.08 % 
-Other                    17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   1 hr 12 mins        ███████████████████░░░░░░   75.62 % 
+Other                    17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+PlantUML                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 💻 Operating System: 
-Linux                    1 hr 30 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (47.7%)
+⏱ AI Coding Time: 43 mins (45.04%)
 
-✍️ 0 lines written by AI, 124 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 127 lines written by hand (0.0% AI-written)
 
 🔤 137,626 Input Tokens, 55,706 Output Tokens
 
@@ -74,7 +74,7 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 25/09/2026 21:47:39 UTC
+ Last Updated on 26/09/2026 21:24:32 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
