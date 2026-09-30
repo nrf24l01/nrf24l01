@@ -16,9 +16,9 @@
   <sub><b>Wakapi Coding Activity</b> — статистика времени программирования</sub>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-753%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-754%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-110%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-112%20hrs%2048%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.90%20million%20lines%20of%20code-blue?style=flat)
 
@@ -41,40 +41,40 @@ Sunday                   386 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Rust                     1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   38.68 % 
-Go                       1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   27.38 % 
-Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-YAML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-PlantUML                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Rust                     1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   27.11 % 
+Go                       1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+YAML                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Markdown                 43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+C                        27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 
 💻 Operating System: 
-Linux                    4 hrs 49 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 25 mins (91.82%)
+⏱ AI Coding Time: 6 hrs 29 mins (94.27%)
 
-✍️ 2,650 lines written by AI, 34 lines written by hand (98.73% AI-written)
+✍️ 3,047 lines written by AI, 34 lines written by hand (98.9% AI-written)
 
-🔤 2,797,902 Input Tokens, 226,585 Output Tokens
+🔤 3,277,273 Input Tokens, 272,962 Output Tokens
 
-💵 $27.77 Estimated AI Cost This Week
+💵 $33.67 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 96 AI Prompts
+🧠 21 AI Sessions, 145 AI Prompts
 
-GPT                      2,834 lines         █████████████████████████   100.00 % 
+GPT                      3,231 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.73% of written lines came from AI
-📚 Verbose Prompter — average 8,343 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 1.6% of changed lines were hand-edited
+🤖 AI-Driven — 98.9% of written lines came from AI
+📚 Verbose Prompter — average 6,764 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 1.4% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/09/2026 22:32:32 UTC
+ Last Updated on 30/09/2026 22:30:30 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
