@@ -16,21 +16,21 @@
   <sub><b>Wakapi Coding Activity</b> — статистика времени программирования</sub>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-762%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-765%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-119%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-122%20hrs%2037%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.04%20million%20lines%20of%20code-blue?style=flat)
 
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   369 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Tuesday                  464 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Wednesday                490 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Thursday                 503 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Friday                   408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Saturday                 534 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Monday                   369 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Tuesday                  464 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Wednesday                490 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Thursday                 505 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Friday                   408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Saturday                 534 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
 Sunday                   405 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
 ```
 
@@ -41,40 +41,40 @@ Sunday                   405 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Rust                     2 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   36.58 % 
-Markdown                 1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-YAML                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Go                       57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Other                    54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Rust                     4 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   38.57 % 
+Markdown                 2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+Other                    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+YAML                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Go                       57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 
 💻 Operating System: 
-Linux                    8 hrs 6 mins        █████████████████████████   100.00 % 
+Linux                    11 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 11 mins (76.31%)
+⏱ AI Coding Time: 9 hrs 47 mins (83.6%)
 
-✍️ 2,237 lines written by AI, 457 lines written by hand (83.04% AI-written)
+✍️ 2,770 lines written by AI, 457 lines written by hand (85.84% AI-written)
 
-🔤 2,617,984 Input Tokens, 273,832 Output Tokens
+🔤 4,532,313 Input Tokens, 514,167 Output Tokens
 
-💵 $23.80 Estimated AI Cost This Week
+💵 $34.55 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 91 AI Prompts
+🧠 26 AI Sessions, 113 AI Prompts
 
-GPT                      2,333 lines         █████████████████████████   100.00 % 
+GPT                      2,873 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.04% of written lines came from AI
-📚 Verbose Prompter — average 6,109 characters per prompt
+🤖 AI-Driven — 85.84% of written lines came from AI
+📚 Verbose Prompter — average 5,045 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 24.38% of changed lines were hand-edited
+🚀 High AI Trust — 20.74% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/10/2026 23:16:33 UTC
+ Last Updated on 08/10/2026 23:32:04 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
