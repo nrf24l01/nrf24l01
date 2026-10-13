@@ -16,22 +16,22 @@
   <sub><b>Wakapi Coding Activity</b> — статистика времени программирования</sub>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-779%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-781%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-136%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-139%20hrs%2010%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.50%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.76%20million%20lines%20of%20code-blue?style=flat)
 
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   419 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Tuesday                  488 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Wednesday                502 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Thursday                 511 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Friday                   423 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Saturday                 581 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Sunday                   447 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Monday                   437 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Tuesday                  513 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Wednesday                507 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Thursday                 513 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Friday                   428 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Saturday                 594 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Sunday                   460 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 ```
 
 
@@ -41,40 +41,40 @@ Sunday                   447 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Rust                     10 hrs 23 mins      ████████████░░░░░░░░░░░░░   47.67 % 
-Markdown                 4 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-Python                   2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Other                    2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Rust                     11 hrs 58 mins      ████████████░░░░░░░░░░░░░   49.64 % 
+Markdown                 4 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+Python                   2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Other                    2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 💻 Operating System: 
-Linux                    21 hrs 46 mins      █████████████████████████   100.00 % 
+Linux                    24 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 30 mins (94.19%)
+⏱ AI Coding Time: 22 hrs 51 mins (94.69%)
 
-✍️ 9,097 lines written by AI, 241 lines written by hand (97.42% AI-written)
+✍️ 10,129 lines written by AI, 241 lines written by hand (97.68% AI-written)
 
-🔤 9,820,848 Input Tokens, 1,572,700 Output Tokens
+🔤 11,384,895 Input Tokens, 1,876,283 Output Tokens
 
-💵 $57.55 Estimated AI Cost This Week
+💵 $111.17 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 120 AI Prompts
+🧠 38 AI Sessions, 124 AI Prompts
 
-GPT                      9,241 lines         █████████████████████████   100.00 % 
+GPT                      10,296 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.42% of written lines came from AI
-📄 Detailed Prompter — average 1,005 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 3.49% of changed lines were hand-edited
+🤖 AI-Driven — 97.68% of written lines came from AI
+📄 Detailed Prompter — average 709 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 3.14% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/10/2026 00:56:04 UTC
+ Last Updated on 13/10/2026 23:02:00 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
