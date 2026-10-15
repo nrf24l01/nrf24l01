@@ -16,22 +16,22 @@
   <sub><b>Wakapi Coding Activity</b> — статистика времени программирования</sub>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-786%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-787%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-145%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-146%20hrs%2031%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.77%20million%20lines%20of%20code-blue?style=flat)
 
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   437 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Tuesday                  517 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Wednesday                511 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Thursday                 518 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Friday                   428 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Saturday                 595 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Sunday                   465 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Monday                   437 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Tuesday                  517 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Wednesday                511 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Thursday                 521 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Friday                   428 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Saturday                 595 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Sunday                   465 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
 ```
 
 
@@ -41,40 +41,40 @@ Sunday                   465 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Rust                     14 hrs 1 min        █████████████░░░░░░░░░░░░   50.66 % 
-Markdown                 5 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-Other                    3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Python                   2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Rust                     12 hrs 56 mins      █████████████░░░░░░░░░░░░   51.26 % 
+Markdown                 4 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Other                    3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Python                   2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 💻 Operating System: 
-Linux                    27 hrs 41 mins      █████████████████████████   100.00 % 
+Linux                    25 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 23 mins (95.3%)
+⏱ AI Coding Time: 23 hrs 56 mins (94.84%)
 
-✍️ 10,320 lines written by AI, 241 lines written by hand (97.72% AI-written)
+✍️ 9,795 lines written by AI, 241 lines written by hand (97.6% AI-written)
 
-🔤 12,390,569 Input Tokens, 2,037,818 Output Tokens
+🔤 10,806,151 Input Tokens, 1,858,187 Output Tokens
 
-💵 $119.35 Estimated AI Cost This Week
+💵 $111.66 Estimated AI Cost This Week
 
-🧠 40 AI Sessions, 132 AI Prompts
+🧠 40 AI Sessions, 123 AI Prompts
 
-GPT                      10,500 lines        █████████████████████████   100.00 % 
+GPT                      9,974 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.72% of written lines came from AI
-📄 Detailed Prompter — average 858 characters per prompt
+🤖 AI-Driven — 97.6% of written lines came from AI
+📄 Detailed Prompter — average 924 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 4.87% of changed lines were hand-edited
+🚀 High AI Trust — 5.11% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/10/2026 21:54:32 UTC
+ Last Updated on 15/10/2026 21:38:23 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
