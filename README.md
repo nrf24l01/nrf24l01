@@ -25,13 +25,13 @@
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   442 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Tuesday                  499 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Wednesday                496 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Thursday                 496 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Friday                   436 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Saturday                 607 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Sunday                   456 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Monday                   442 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Tuesday                  499 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Wednesday                496 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Thursday                 496 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Friday                   436 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Saturday                 607 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Sunday                   459 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
 ```
 
 
@@ -41,41 +41,41 @@ Sunday                   456 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Rust                     4 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   27.34 % 
-Other                    3 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
-Markdown                 3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-Python                   2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-JSON                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Other                    2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+Python                   2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+Rust                     1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Markdown                 1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+JSON                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
 
 💻 Operating System: 
-Linux                    17 hrs 20 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 5 mins (92.75%)
+⏱ AI Coding Time: 9 hrs 54 mins (88.89%)
 
-✍️ 1,970 lines written by AI, 78 lines written by hand (96.19% AI-written)
+✍️ 1,655 lines written by AI, 78 lines written by hand (95.5% AI-written)
 
-🔤 5,572,920 Input Tokens, 812,239 Output Tokens
+🔤 3,514,911 Input Tokens, 554,886 Output Tokens
 
-💵 $54.32 Estimated AI Cost This Week
+💵 $39.61 Estimated AI Cost This Week
 
-🧠 43 AI Sessions, 93 AI Prompts
+🧠 35 AI Sessions, 59 AI Prompts
 
-GPT                      2,392 lines         █████████████████████████   100.00 % 
+GPT                      2,064 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.19% of written lines came from AI
-📚 Verbose Prompter — average 1,532 characters per prompt
+🤖 AI-Driven — 95.5% of written lines came from AI
+📚 Verbose Prompter — average 1,862 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 12.26% of changed lines were hand-edited
+🚀 High AI Trust — 4.46% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/10/2026 21:50:19 UTC
+ Last Updated on 21/10/2026 21:55:37 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
