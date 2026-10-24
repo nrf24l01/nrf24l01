@@ -41,41 +41,40 @@ Sunday                   471 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   2 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
-Other                    1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-Markdown                 1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Rust                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-JSON                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Python                   2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+Other                    1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Rust                     1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Markdown                 58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+C++                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 
 💻 Operating System: 
-Linux                    9 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 44 mins (87.6%)
+⏱ AI Coding Time: 6 hrs 59 mins (94.97%)
 
-✍️ 1,647 lines written by AI, 78 lines written by hand (95.48% AI-written)
+✍️ 1,551 lines written by AI, 1 lines written by hand (99.94% AI-written)
 
-🔤 3,185,000 Input Tokens, 494,182 Output Tokens
+🔤 2,071,182 Input Tokens, 323,647 Output Tokens
 
-💵 $36.61 Estimated AI Cost This Week
+💵 $29.75 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 46 AI Prompts
+🧠 20 AI Sessions, 28 AI Prompts
 
-GPT                      2,050 lines         █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      1,928 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.48% of written lines came from AI
-📚 Verbose Prompter — average 2,073 characters per prompt
+🤖 AI-Driven — 99.94% of written lines came from AI
+📚 Verbose Prompter — average 2,749 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 4.5% of changed lines were hand-edited
+🚀 High AI Trust — 0.13% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/10/2026 21:36:15 UTC
+ Last Updated on 24/10/2026 21:04:51 UTC
 <!--END_SECTION:waka-->
 </div>
 ###
